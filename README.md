@@ -1,4 +1,4 @@
-# TerminalToDo
+# ToDo-Terminal
 
 
 terminal todo commands:
